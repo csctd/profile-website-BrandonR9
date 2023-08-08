@@ -54,3 +54,11 @@ Since you're here, you might be:
 - Timmy is 37, tall, blond, and works for Google. He is a software developer for search. He's on my website to see if I suit the job.
 - Jon is 48, short, dark hair, and works for Microsoft. He is a hardware designer for the homepage. He's on my website to see if I am able to fit the job.
 - Roze is 23, average height, long waive dark hair with a red extention, and works for Google. She is a software developer for the homepage. She is on my website to see if I suit the job.
+
+## Design
+
+I will get my message across by using design by making it apleasing to the eyes and have a warm feel to it. I want it to be easy to use and make it simple so no one will be confused.
+
+## Accessibility
+
+My website will be accessible to users with impairments by having a text to speech that will be able to read text. It will also have a colorblind feature that you can switch too if you need it.

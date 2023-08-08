@@ -47,6 +47,10 @@ this should install a Sphinx environment and build the site, putting the output 
 
 Welcome to my profile webiste, 
 <!-- enter your target audience after the comma above -->
+Prospective Employers
 
 Since you're here, you might be: 
 <!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website -->
+- Timmy is 37, tall, blond, and works for Google. He is a software developer for search. He's on my website to see if I suit the job.
+- Jon is 48, short, dark hair, and works for Microsoft. He is a hardware designer for the homepage. He's on my website to see if I am able to fit the job.
+- Roze is 23, average height, long waive dark hair with a red extention, and works for Google. She is a software developer for the homepage. She is on my website to see if I suit the job.

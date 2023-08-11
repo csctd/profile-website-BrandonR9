@@ -49,8 +49,20 @@ with open ('info.yml','r') as f:
 
 
 html_theme_options = {
-  "github_url": "https://github.com/username/",
-  "twitter_url": "https://twitter.com/username",
+  "github_url": "https://github.com/BrandonR9/",
+ 
+  "icon_links": [
+        {
+            # Label for this link
+            "name": "instagram",
+            # URL where the link will redirect
+            "url": "https://www.instagram.com/brandon_d_rowe/",  # required
+            # Icon class (if "type": "fontawesome"), or path to local image (if "type": "local")
+            "icon": "fa-brands fa-square-github",
+            # The type of image to be used (see below for details)
+            "type": "fontawesome",
+        }
+   ],
   "search_bar_text": "Search this site...",
 #   "navbar_end": ["search-field.html"],
 }

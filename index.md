@@ -5,7 +5,7 @@ Hello my name is Brandon and I am currently an undergrade class of 2027
 
 <img src="_static/img/giphy.gif" alt="Luffy Smiling">
 <style>
-body {background-color: blue 
+body {background-color: light blue
 }
 </style>
 

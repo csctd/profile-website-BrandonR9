@@ -191,6 +191,33 @@ H1.pechakucha {
 .fade {
     animation-name: fade;
 
+    /* site view only on in fullscreen */
+    #slideshow:not(:fullscreen) #pageview {
+        display: none;
+    }
+
+    #slideshow:fullscreen #pageview {
+        display: block;
+    }
+
+    /* put controls in the bottm right of the screen and 
+       on top of the slides in fullscreen */
+    #slideshow:fullscreen div.controls {
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        z-index: 100;
+    }
+
+    /* presentation button off in fullscreen */
+    #slideshow:fullscreen #presentation {
+        display: none;
+    }
+
+    #slideshow:not(:fullscreen) #presentation {
+        display: block;
+    }
+
     /*  define the pink  cards*/
     div.sd-card.pink {
         border-color: hotpink;

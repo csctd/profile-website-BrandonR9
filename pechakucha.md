@@ -111,30 +111,30 @@ Alvin and the Chipmunks
 ```{card}
 :class-card: slide
 
-![Alt text](_static/img/IMG_3159.jpeg)
+![Alt text](/_static/img/IMG_3160.jpeg)
 +++
-Alvin and the Chipmunks
+Bit my fork
 ```
 ```{card}
 :class-card: slide
 
-![Alt text](_static/img/IMG_3159.jpeg)
+![Alt text](_static/img/IMG_3161.jpeg)
 +++
-Alvin and the Chipmunks
+Blud's gaming
 ```
 ```{card}
 :class-card: slide
 
-![Alt text](_static/img/IMG_3159.jpeg)
+![Alt text](_static/img/IMG_3162.jpeg)
 +++
-Alvin and the Chipmunks
+2 selfies at once
 ```
 ```{card}
 :class-card: slide
 
-![Alt text](_static/img/IMG_3159.jpeg)
+![Alt text](_static/img/IMG_3163.jpg)
 +++
-Alvin and the Chipmunks
+I hate it here
 ```
 ```{card}
 :class-card: slide

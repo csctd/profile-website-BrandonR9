@@ -190,9 +190,45 @@ div.sd-card.pink div.sd-card-footer{
 }
 
 
+
+    /* site view only on in fullscreen */
+    #slideshow:not(:fullscreen) #pageview {
+        display: none;
+    }
+
+    #slideshow:fullscreen #pageview {
+        display: block;
+    }
+
+    /* put controls in the bottm right of the screen and 
+       on top of the slides in fullscreen */
+    #slideshow:fullscreen div.controls {
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        z-index: 100;
+    }
+
+    /* presentation button off in fullscreen */
+    #slideshow:fullscreen #presentation {
+        display: none;
+    }
+
+    #slideshow:not(:fullscreen) #presentation {
+        display: block;
+    }
+
+    /*  define the pink  cards*/
+    div.sd-card.pink {
+        border-color: hotpink;
+        border-width: 5px;
+        box-shadow: pink;
+    }
+
 div.admonition.blue>.admonition-title:before {
     background-color: navy;
 }
+
 
 div.admonition.blue>.admonition-title:after {
     color: skyblue;

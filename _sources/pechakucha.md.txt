@@ -1,4 +1,4 @@
-# Pictures
+# TD Summer
 
 <div id="slideshow">
 
@@ -139,9 +139,9 @@ I hate it here
 ```{card}
 :class-card: slide
 
-![Alt text](_static/img/IMG_3159.jpeg)
+![Alt text](_static/img/IMG_3164.jpg)
 +++
-Alvin and the Chipmunks
+Bible Study
 ```
 ```{card}
 :class-card: slide

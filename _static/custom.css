@@ -338,15 +338,6 @@ div.admonition.pink>.admonition-title:after {
     display: block;
 }
 
-#slideshow { 
-    background-color: lavender ;
-}
-
-p {color: black ;
-}
-h1 {
-color: grey
-}
 
 /* slide animation opacity */
 @keyframes fade {

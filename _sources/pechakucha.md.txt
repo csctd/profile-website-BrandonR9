@@ -146,10 +146,23 @@ Bible Study
 ```{card}
 :class-card: slide
 
-![Alt text](_static/img/IMG_3159.jpeg)
+![Alt text](_static/img/IMG_3168.jpg)
 +++
-Alvin and the Chipmunks
+Minecraft
 ```
 
 ````
+<style>
+body { 
+    background-color: lavender ;
+}
+p{background-image: url("_static/img/cherry-blossom-sakura-tree-46b5m8kv0r60f4qs.gif");}
+
+p {color: black ;
+}
+h1 {
+color: skyblue
+}
+
+</style>
 </div>
